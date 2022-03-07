@@ -16,3 +16,8 @@ String
 - ex06 : 문자거리
 - ex07 : 문자열 압축
 - ex08 : 문자열 암호화
+- ex09 : 문자열 찾기[Implement strStr](https://leetcode.com/problems/implement-strstr/)
+  - KMP, Rolling-Hash
+- ex10 : 문자열 덧샘[415. Add Strings](https://leetcode.com/problems/add-strings/)
+- ex11 : 아나그램(Group Anagrams)[anagrams](https://leetcode.com/problems/group-anagrams/)
+- ex12 : 미중복 최대길이 문자열 찾기[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
