@@ -21,3 +21,9 @@ String
 - ex10 : 문자열 덧샘[415. Add Strings](https://leetcode.com/problems/add-strings/)
 - ex11 : 아나그램(Group Anagrams)[anagrams](https://leetcode.com/problems/group-anagrams/)
 - ex12 : 미중복 최대길이 문자열 찾기[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+
+Array
+- ex01 : 피보나치 수열
+- ex02 : 소수(에라토스테네스 체)
+- ex03 : 숫자 뒤집기[Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+- ex04 : 격자판 최대수 구하기
