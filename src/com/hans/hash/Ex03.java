@@ -44,7 +44,6 @@ public class Ex03 {
         int[] ex1 = {13, 15, 34, 23, 45, 65, 33, 11, 26, 42};
         int target = 3;
 
-
         Ex03 t = new Ex03();
         int result = t.solution(ex1, target);
         System.out.print(result);

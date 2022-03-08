@@ -35,6 +35,18 @@ Array
 - ex12 : [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 - ex13 : [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
 - ex14 : [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
-- ex15 : [Sort Colors](https://leetcode.com/problems/sort-colors/)
+- ex15 : [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+- 
+- ex?? : [Sort Colors](https://leetcode.com/problems/sort-colors/)
   - quick sort
-- ex16 : [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
+
+HashMap
+- ex01 : 매출액의 종류
+- ex02 : 모든 아나그램 찾기
+- ex03 : K번째 큰 수
+- ex04 : [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+- ex05 : [Word Pattern](https://leetcode.com/problems/word-pattern/)
+- ex06 : [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/)
+  - TODO : heap 학습 완료 후 완결
+- ex07 : [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)
+  - TODO : hashmap sort 최적화
