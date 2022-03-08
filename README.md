@@ -31,3 +31,10 @@ Array
 - ex06 : 공통원소 구하기
 - ex07 : 최대매출 구하기(Sliding window)
 - ex08 : 연속부분수열
+- ex11 : [Binary Search](https://leetcode.com/problems/binary-search/)
+- ex12 : [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+- ex13 : [Find Pivot Index](https://leetcode.com/problems/find-pivot-index/)
+- ex14 : [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
+- ex15 : [Sort Colors](https://leetcode.com/problems/sort-colors/)
+  - quick sort
+- ex16 : [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
