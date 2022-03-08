@@ -27,3 +27,7 @@ Array
 - ex02 : 소수(에라토스테네스 체)
 - ex03 : 숫자 뒤집기[Reverse Integer](https://leetcode.com/problems/reverse-integer/)
 - ex04 : 격자판 최대수 구하기
+- ex05 : 두 배열 합치기
+- ex06 : 공통원소 구하기
+- ex07 : 최대매출 구하기(Sliding window)
+- ex08 : 연속부분수열
