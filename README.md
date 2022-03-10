@@ -70,4 +70,5 @@ Sort
 - ex02 : 버블정렬
 - ex03 : 삽입정렬
 - ex04 : [Sort List](https://leetcode.com/problems/sort-list/)
-- 
+- ex05 : merge sort
+- ex06 : quick sort
