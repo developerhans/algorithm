@@ -55,6 +55,17 @@ Stack
 - ex01 : 크레인 인형뽑기(카카오)
 - ex02 : 후위식 연산(postfix)
 - ex03 : 쇠막대기
+- ex04 : [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
+- ex05 : [Min Stack](https://leetcode.com/problems/min-stack/)
+- ex06 : [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
 
 Queue
 - ex01 : 공주 구하기
+- ex02 : 교육과정 설계
+- ex03 : 병원 응급실
+- ex04 : [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+
+Sort
+- ex01 : 선택정렬
+- ex02 : 버블정렬
+- ex03 : 삽입정렬
