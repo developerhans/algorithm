@@ -50,3 +50,11 @@ HashMap
   - TODO : heap 학습 완료 후 완결
 - ex07 : [top-k-frequent-elements](https://leetcode.com/problems/top-k-frequent-elements/)
   - TODO : hashmap sort 최적화
+
+Stack
+- ex01 : 크레인 인형뽑기(카카오)
+- ex02 : 후위식 연산(postfix)
+- ex03 : 쇠막대기
+
+Queue
+- ex01 : 공주 구하기
