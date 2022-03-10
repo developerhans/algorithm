@@ -69,3 +69,5 @@ Sort
 - ex01 : 선택정렬
 - ex02 : 버블정렬
 - ex03 : 삽입정렬
+- ex04 : [Sort List](https://leetcode.com/problems/sort-list/)
+- 
