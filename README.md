@@ -64,6 +64,7 @@ Queue
 - ex02 : 교육과정 설계
 - ex03 : 병원 응급실
 - ex04 : [Design Circular Queue](https://leetcode.com/problems/design-circular-queue/)
+- ex05 : LRU(array, queue)
 
 Sort
 - ex01 : 선택정렬
@@ -72,3 +73,11 @@ Sort
 - ex04 : [Sort List](https://leetcode.com/problems/sort-list/)
 - ex05 : merge sort
 - ex06 : quick sort
+- ex07 : java sort(Comparable)
+
+Search
+- ex01 : Binary Search(이분검색)
+- ex02 : Binary Search(이분검색, Node)
+- ex03 : Binary Search(이분검색 심화)
+- ex04 : 결정 알고리즘
+- ex05 : DFS
