@@ -81,6 +81,9 @@ Search
 - ex03 : Binary Search(이분검색 심화)
 - ex04 : 결정 알고리즘
 - ex05 : DFS
+- ex06 : [Path SumII](https://leetcode.com/problems/path-sum-ii/)
+  - DFS
+- ex07 : [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
 
 Linked list
 - ex01 : [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)
