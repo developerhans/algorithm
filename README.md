@@ -80,10 +80,15 @@ Search
 - ex02 : Binary Search(이분검색, Node)
 - ex03 : Binary Search(이분검색 심화)
 - ex04 : 결정 알고리즘
-- ex05 : DFS
+- ex05 : DFS basic
 - ex06 : [Path SumII](https://leetcode.com/problems/path-sum-ii/)
   - DFS
 - ex07 : [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- ex08 : 부분집합 구하기(DFS)
+- ex09 : BFS basic
+- ex10 : 송아지 찾기(BFS)
+- ex11 : 경로 탐색(인접 행렬, Graph, DFS)
+- ex12 : 경로 탐색(인접 리스트, Graph, DFS)
 
 Linked list
 - ex01 : [Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/)

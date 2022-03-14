@@ -4,15 +4,6 @@ package com.hans.search;
  * 문제 : DFS
  */
 
-class Node{
-    int data;
-    Node lt, rt;
-    public Node(int val) {
-        data=val;
-        lt=rt=null;
-    }
-}
-
 public class Ex05 {
 
     Node root;
