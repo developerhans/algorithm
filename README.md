@@ -58,6 +58,7 @@ Stack
 - ex04 : [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - ex05 : [Min Stack](https://leetcode.com/problems/min-stack/)
 - ex06 : [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+- ex07 : [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
 
 Queue
 - ex01 : 공주 구하기
@@ -98,3 +99,10 @@ Linked list
   - slow, fast 전략
 Graph
   - GraphBasic : DFS, BFS All
+  - ex01 : [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+  - ex02 : [Number of Connected Components in an Undirected Graph](https://cheonhyangzhang.gitbooks.io/leetcode-solutions/content/323-number-of-connected-components-in-an-undirected-graph.html)
+    - 연결된 덩어리들의 수량을 체크
+  - ex03 : [Number of Islands](https://leetcode.com/problems/number-of-islands/)
+  - ex04 : [Flood Fill](https://leetcode.com/problems/flood-fill/)
+DP
+  - ex01 : [Coin Change](https://leetcode.com/problems/coin-change/)
