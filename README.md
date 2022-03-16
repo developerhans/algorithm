@@ -58,7 +58,9 @@ Stack
 - ex04 : [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses/)
 - ex05 : [Min Stack](https://leetcode.com/problems/min-stack/)
 - ex06 : [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/)
+  - 두개의 스택을 사용하여 해결
 - ex07 : [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+  - 한개의 스택을 이용하여 해결
 
 Queue
 - ex01 : 공주 구하기
@@ -106,3 +108,19 @@ Graph
   - ex04 : [Flood Fill](https://leetcode.com/problems/flood-fill/)
 DP
   - ex01 : [Coin Change](https://leetcode.com/problems/coin-change/)
+
+Greedy
+  - ex01 : [Minimum Deletion Cost to Avoid Repeating Letters](https://leetcode.ca/2020-03-26-1578-Minimum-Deletion-Cost-to-Avoid-Repeating-Letters/)
+  - ex02 : 회의시간
+  - ex03 : 서로소 집합(union find)
+  - ex04 : 프림(union find)
+Bit
+  - BitBasic : 일반적인 비트연산
+  - ex01 : 비트중 1인 비트수량 체크
+
+Test
+  - Level1
+    - Level1_Ex01 : 문자열 처리
+    - Level1_Ex02 : 로또번호
+  - Level2
+    - TODO's..
