@@ -35,6 +35,8 @@ import java.util.Queue;
  * ------------------------------------------------------
  *
  * result = 테스트 17번 통과못함, 테스트 케이스를 알 수 없어.. 이유를 모르겠음.
+ *
+ * TODO : 큐를 제거하고 문자열 인덱스를 가지고 솔류션을 만드는게 공간을 아낄 수 있음.
  */
 public class JadenCase {
     static class Solution {
