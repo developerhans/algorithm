@@ -106,6 +106,7 @@ Graph
     - 연결된 덩어리들의 수량을 체크
   - ex03 : [Number of Islands](https://leetcode.com/problems/number-of-islands/)
   - ex04 : [Flood Fill](https://leetcode.com/problems/flood-fill/)
+  - BFS = 가장 짧은 길
 DP
   - ex01 : [Coin Change](https://leetcode.com/problems/coin-change/)
 
