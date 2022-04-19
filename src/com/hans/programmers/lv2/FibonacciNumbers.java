@@ -32,6 +32,10 @@ package com.hans.programmers.lv2;
  * 피보나치수는 0번째부터 0, 1, 1, 2, 3, 5, ... 와 같이 이어집니다.
  *
  * result = 테스트 7 ~ 14번 통과못함, 테스트 케이스를 알 수 없어.. 이유를 모르겠음.
+ *
+ * 테스트 7 ~ 14번 통과 못한 이유 모듈러 연산에서 나온 숫자가 int 자료형 범위를 넘어가서 통과 할 수 없었음.
+ * 피보나치 배열에 값을 담는게 아닌, 모듈러 연산 결과를 담아야함.
+ *
  */public class FibonacciNumbers {
     static class Solution {
 
